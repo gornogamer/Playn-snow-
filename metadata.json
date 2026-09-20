@@ -1,0 +1,6 @@
+{
+  "name": "Play'n with Snow - Rare Friends Vibeathon",
+  "description": "A snowy winter wonderland mini-game experience for the Rare Friends Vibeathon powered by FriendSDK, featuring snowball throwing, snowman building, snow angels, and simulated RF frost collectibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

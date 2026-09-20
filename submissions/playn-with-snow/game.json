@@ -1,0 +1,32 @@
+{
+  "name": "Play'n with Snow: Frost Crates",
+  "consumable": "Frost Shovel",
+  "price": "1000000000000000000",
+  "outcomes": [
+    {
+      "name": "Pinecone Snowball",
+      "chanceBps": 4500,
+      "reward": "250000000000000000"
+    },
+    {
+      "name": "Glacial Icicle",
+      "chanceBps": 2800,
+      "reward": "500000000000000000"
+    },
+    {
+      "name": "Frost Crystal Star",
+      "chanceBps": 1500,
+      "reward": "1250000000000000000"
+    },
+    {
+      "name": "Aurora Snow Globe",
+      "chanceBps": 800,
+      "reward": "3500000000000000000"
+    },
+    {
+      "name": "Golden Snow Crown",
+      "chanceBps": 400,
+      "reward": "10000000000000000000"
+    }
+  ]
+}
