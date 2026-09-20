@@ -1,6 +1,7 @@
 # ❄️ Play'n with Snow — Rare Friends Winter Wonderland
 
-🎮 **Live Playable Demo**: [https://ais-pre-e5pnc336w3pyw7ibijcwy4-585630033660.europe-west2.run.app](https://ais-pre-e5pnc336w3pyw7ibijcwy4-585630033660.europe-west2.run.app)
+🎮 **Live Playable Demo**: [https://ais-dev-e5pnc336w3pyw7ibijcwy4-585630033660.europe-west2.run.app](https://ais-dev-e5pnc336w3pyw7ibijcwy4-585630033660.europe-west2.run.app)
+ 
 
 ---
 
