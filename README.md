@@ -3,7 +3,7 @@
 > An interactive 2D pixel-art winter wonderland minigame built with **FriendSDK v0.1.2** for the **Rare Friends Vibeathon**.
 
 ## 🎮 Live Playable Demo
-👉 [Click to Play in Browser](https://ais-dev-e5pnc336w3pyw7ibijcwy4-585630033660.europe-west2.run.app)
+👉 [Click to Play in Browser] https://ai.studio/apps/4ed06645-d51c-4b6b-af2f-ae6ac644823f
 
 📦 **Project Source Repository:** [https://github.com/gorno90/Playn-snow-](https://github.com/gorno90/Playn-snow-)
 
